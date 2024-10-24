@@ -1,0 +1,9 @@
+transaction_id,username,transaction_type,amount,timestamp,details
+1,user1,nap_tien,100000,2024-10-08 14:00:00,Nạp tiền vào tài khoản
+2,user1,thanh_toan_pc,-50000,2024-10-08 16:00:00,Thanh toán cho sử dụng máy PC số 2
+3,user2,mua_dich_vu,-15000,2024-10-08 15:30:00,Mua Coca Cola
+4,admin,rut_tien,-200000,2024-10-08 17:00:00,Rút tiền từ tài khoản admin
+5,khoi270505,thanh_toan_pc,0,2024-10-10 13:56:55,Thanh toán cho sử dụng máy PC số PC1
+6,khoi270505,mua_dich_vu,-10000.0,2024-10-10 13:58:05,Mua Đồ uống (Coca Cola)
+7,khoi270505,mua_dich_vu,-10000.0,2024-10-24 19:18:03,Mua Đồ uống (Coca Cola)
+8,khoi270505,thanh_toan_pc,0,2024-10-24 19:18:41,Thanh toán cho sử dụng máy PC số PC1

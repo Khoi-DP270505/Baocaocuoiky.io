@@ -1,0 +1,4 @@
+pc_id,pc_type,status,username,start_time
+PC1,thường,available,,
+PC2,vip,in-use,user1,2024-10-08 14:30:00
+PC3,thường,available,,
